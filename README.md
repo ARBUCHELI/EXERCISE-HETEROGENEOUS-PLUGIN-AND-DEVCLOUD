@@ -162,7 +162,7 @@ tar zcvf output.tgz * # compresses all files in the current directory (output)
 
 # Step 3: Submitting a Job to Intel's DevCloud
 In the next three sub-steps, you will write your <code>!qsub</code> commands to submit your jobs to Intel's DevCloud to load your model and run inference on the 
-<strong>IEI Tank-870</strong> edge node with an <strong>Intel Core i5</strong> CPU and an <code>Intel Arria 10 FPGA</strong>. You will use the <strong>HETERO</strong> device 
+<strong>IEI Tank-870</strong> edge node with an <strong>Intel Core i5</strong> CPU and an <code>Intel Arria 10 FPGA</code>. You will use the <strong>HETERO</strong> device 
 plugin to run inference on three device combinations.
 
 Your <code>!qsub</code> command should take the following flags and arguments:
