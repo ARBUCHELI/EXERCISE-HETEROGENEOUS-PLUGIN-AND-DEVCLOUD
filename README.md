@@ -1,6 +1,6 @@
 # EXERCISE-HETEROGENEOUS-PLUGIN-AND-DEVCLOUD
 
-## Disclaimer: This exercise was Created by Udacity (AWS Machine Learning Foundations Course) (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
+## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 Load a model on all three hardware devices, CPU, GPU, and FPGA, using 3 device combinations and run inference on an image.
 
@@ -397,4 +397,4 @@ read_files(paths, ['FPGA/CPU', 'GPU/CPU', 'FPGA/GPU/CPU'])
 
 
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
